@@ -1,0 +1,187 @@
+
+body {
+    background-image: url('Háttér.png');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    margin: auto;
+    width: 50%;
+     }
+.kula{
+    justify-content: right;
+    text-align: right;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+
+
+}
+.cigány{
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    
+}
+.ondó{
+    flex: 1;
+    text-align: left;
+
+}
+
+
+.home_page_link{
+    width: 80%; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 20px;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    
+}
+.rohadék{
+    color: white;
+}
+.link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    margin: 0 10px;
+}
+.képek{
+    margin-top: 10px;    
+    margin-right: 20px;  
+    margin-bottom: 5px; 
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.linkecskék{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.orszag_kepek{
+    margin-top: 10px;    
+    margin-right: 10px;  
+    margin-bottom: 5px; 
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.orszag_linkek{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.orszag_kepek_2{
+    margin-top: 10px;    
+    margin-right: 10px;  
+    margin-bottom: 5px; 
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.orszag_linkek_2{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.hajo_1{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_2{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_3{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_4{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_5{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_6{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_7{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_8{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_9{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.hajo_10{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
