@@ -185,3 +185,66 @@ body {
     border-radius: 50px;
     margin-bottom: 20px;
 }
+.játékmod_1{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.játékmod_2{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.játékmod_3{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.játékmod_4{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.játékmod_5{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.játékmod_6{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.játékmod_7{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
